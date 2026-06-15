@@ -7,3 +7,7 @@
 ollama run qwen2.5:7b
 ```
 * Зависит от производительности ПК
+# Установка Ollama
+```
+winget install ollama
+```
